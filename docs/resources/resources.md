@@ -1,5 +1,8 @@
 ---
 layout: "akamai"
+page_title: "akamai"
+description: |-
+  akamai terrafrom provider.
 ---
 
 # Akamai resources
